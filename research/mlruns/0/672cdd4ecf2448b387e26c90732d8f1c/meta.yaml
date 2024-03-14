@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DS%20Projects/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/672cdd4ecf2448b387e26c90732d8f1c/artifacts
+end_time: 1710322762004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 672cdd4ecf2448b387e26c90732d8f1c
+run_name: salty-grub-801
+run_uuid: 672cdd4ecf2448b387e26c90732d8f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710322759004
+status: 3
+tags: []
+user_id: admin
